@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Navneel Bhardwaj
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Reactjs
+- 👀 I’m interested in Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me navubhardwaj07@gmail.com
 
